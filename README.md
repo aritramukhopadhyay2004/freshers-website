@@ -284,7 +284,7 @@ Use conventional commits for clear history:
 
 ---
 
-### 🎨 **UI/UX Designer & Operator**
+### 🎨 **UI/UX Designer & Operation, Management**
 **Aritra Mukhopadhyay** ([@aritramukhopadhyay2004](https://github.com/aritramukhopadhyay2004))
 
 *User interface design, user experience optimization, and project operations*
